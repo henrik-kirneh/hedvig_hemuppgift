@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Hedvig_Hemuppgift
+
+  Created by Henrik Larsson on 2023-02-26.
+  
+*/
+"General.User" = "User";
+"General.Organisation" = "Organisation";
+"General.Repository" = "Repository";
+"General.Languages" = "Languages";
+"General.Contributors" = "Contributors";
+"SearchView.NavigationTitle" = "Search Repository";
+"SearchView.SearchFieldPrompt" = "Search for user or organisation";
+"InfoMessage.UserNotFound" = "User not found";
+"InfoMessage.OrganisationNotFound" = "Organisation not found";
+"InfoMessage.SomethingWentWrong" = "Something went wrong";
+"InfoMessage.NoUserRepos" = "User has not repositories yet";
+"AccessibilityLabel.UserSearchField" = "Search for user or organisation";
+"AccessibilityLabel.SearchTypeSelector" = "Select user or organisation";

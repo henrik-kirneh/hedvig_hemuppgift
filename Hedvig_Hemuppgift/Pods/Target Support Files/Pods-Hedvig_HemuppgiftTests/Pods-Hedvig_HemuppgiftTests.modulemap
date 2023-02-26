@@ -1,0 +1,6 @@
+framework module Pods_Hedvig_HemuppgiftTests {
+  umbrella header "Pods-Hedvig_HemuppgiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
